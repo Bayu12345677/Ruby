@@ -1,4 +1,4 @@
-
+# code by polygon
 #_________________require_____________#
 require 'colorize'
 require 'net/http'
